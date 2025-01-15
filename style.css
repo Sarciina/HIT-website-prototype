@@ -21,7 +21,6 @@
 .content .btn{
     padding: 1rem 2rem;
     outline: none;
-    border: none;
     font-size: 1rem;
     color: #f5f7f6;
     background-color: black;
@@ -51,6 +50,7 @@ body{
     display: flex;
     flex-direction: column;
 }
+
 nav{
     padding: 2rem 1rem;
     display: flex;
